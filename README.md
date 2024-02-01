@@ -1,2 +1,2 @@
 # rayna-rs
-Raytracing graphic engine written in Rust
+Raycasting graphic engine written in Rust

@@ -1,0 +1,13 @@
+{
+    "fov": 60,
+    "player": {
+        "lookSpeed": 100,
+        "moveSpeed": 10,
+        "collisionRadius": 1
+    },
+    "screen": {
+        "width": 640,
+        "height": 480
+    },
+    "entry": "../assets/scene.json"
+}
